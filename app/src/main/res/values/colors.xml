@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffb733</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="status_bar">#ffc04c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAutoTheme">#ff0000</color>
+    <color name="blue">#426C96</color>
+    <color name="seekbar">#69C3E6</color>
+    <color name="textColor">#776D76</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#E3E3E3</color>
+    <color name="radio_button_selected_color">#ff33b5e5</color>
+    <color name="radio_button_unselected_color">#ffffff</color>
+</resources>

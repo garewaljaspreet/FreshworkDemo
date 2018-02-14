@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FreshworkDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trending">Trending</string>
+    <string name="splash_text">FreshWorks</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_network">No internet connection.Try Again.</string>
+    <string name="no_result">Unable to find results</string>
+    <string name="no_data_found">No results found</string>
+    <string name="no_username">No Username Available</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="dialog_messgae">Are you sure you want to delete from favorites?</string>
+    <string name="success_fav_download">Successfully added to favourites</string>
+</resources>
